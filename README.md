@@ -7,3 +7,7 @@ steps to run:
 2.npm run build
 
 3.npm run start 
+
+
+you will see the project runs on port 3000
+
